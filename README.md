@@ -12,8 +12,8 @@ A Udacity Data science nano degree project
  * [Results](#Results)
 
  * [Licensing, Authors, and Acknowledgements](#Licensing)
-
-#### Installation <a name="Installation"></a>
+<a name="Installation"></a>
+#### Installation 
 
 It is not necessary to install any libraries outside of the Anaconda suit of python. Everything is built in Python 3. version only
 
