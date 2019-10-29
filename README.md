@@ -38,7 +38,7 @@ As part of the Udacity write a data science blog post, i came across this inters
 <a name="Results"></a>
 #### Results 
 
-The exploration and anlyasis of this data has been posted in Medium as a blogspot and you can access the same here.
+The exploration and anlyasis of this data has been posted in Medium as a blogspot and you can access the same [here](https://medium.com/@devanand.mukka/foreign-trade-of-india-a-sneak-peak-83c8b38b5e21).
 <a name="Licensing"></a>
 #### Licensing, Authors, Acknowledgements 
 
